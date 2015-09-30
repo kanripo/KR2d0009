@@ -1,0 +1,5 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 欽定重訂契丹國志
+#+DATE: 2015-08-24 22:28:29.900872
+#+PROPERTY: ID KR2d0009
+#+PROPERTY: BASEEDITION WYG    
